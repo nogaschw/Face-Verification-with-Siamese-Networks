@@ -1,5 +1,3 @@
-# Assignment 2
-
 This project explores one-shot face recognition using Siamese neural networks trained on the Labeled Faces in the Wild (LFW) dataset. The goal is to understand how different architectural choices, preprocessing steps, and training strategies affect similarity learning for facial verification
 
 ## Project Structure
@@ -28,4 +26,5 @@ notebook.ipynb          # Jupyter Notebook for experimentation
 
 ## Conclusion
 While absolute accuracy remained modest, the experiments provided valuable insight into how architectural design, preprocessing, and loss functions influence Siamese network performance in challenging one-shot facial recognition tasks.
+
 A full detailed report is included in this repository.
